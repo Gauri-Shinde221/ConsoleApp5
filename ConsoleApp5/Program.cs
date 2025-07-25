@@ -8,7 +8,7 @@ namespace ConsoleApp5
 {
     class Program
     {
-        int c;
+        int c,z;
         public void Add()
         {
             int b, a;
